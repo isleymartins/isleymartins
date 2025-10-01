@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Isley Martins, Bacharel em Ciência da Computação na Universidade Estadual da Paraíba(UEPB). Concluí o ensino médio no IFPB do Campus Paraíba, com o curso técnico em informática. Atualmente, estou participando em projetos no Núcleo de Tecnologias Estratégicas em Saúde (NUTES) da Universidade Estadual da Paraíba (UEPB). Em horas vagas, faço um projeto pessoal que estão em repositorios privados(Ficou curioso? É sobre cartas e PDF \0/).
+Me chamo Isley Martins, Bacharela em Ciência da Computação na Universidade Estadual da Paraíba(UEPB). Concluí o ensino médio no IFPB do Campus Paraíba, com o curso técnico em informática. Atualmente, estou participando em projetos no Núcleo de Tecnologias Estratégicas em Saúde (NUTES) da Universidade Estadual da Paraíba (UEPB). Em horas vagas, faço um projeto pessoal que estão em repositorios privados(Ficou curioso? É sobre cartas e PDF \0/).
 
 <p align="left">
     <a href="https://www.linkedin.com/in/isley-martins-a9ba15343"/>
